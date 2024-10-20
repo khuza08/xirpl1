@@ -27,3 +27,4 @@ npm start
 ```shell
 npm run build
 ```
+initialize source for the web

@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #f700ff; }
 
 
 /* ------------------------------------------------------------------ */
@@ -412,7 +412,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #660069;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -422,7 +422,7 @@ ul#nav li.current a { color: #fe6928; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #ffffff;
 }
 
 /* Portfolio Content */
@@ -758,7 +758,7 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+
 }
 .flex-control-paging li a {
     width: 12px;
@@ -928,13 +928,13 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #ffffff7e;
    font-size: 14px;
    text-align: center;
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #830088; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
@@ -955,7 +955,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #830088;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -1020,5 +1020,5 @@ footer .social-links li:first-child { margin-left: 0; }
    background-color: #1abc9c !important;
 }
 .github-btn{
-   background-color: #34495e !important;
+   background-color: #660069 !important;
 }
